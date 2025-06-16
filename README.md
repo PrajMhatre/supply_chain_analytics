@@ -42,7 +42,7 @@ Overall story of Create an interactive dashboard to summarize the research of th
 ## Data Pre-Processing & Data Cleaning 
 
 The data pre-procesing and Data cleaning is done using Python. 
-Detailed Notebook : [Here](https://github.com/poojapatel26/Supply-Chain-Analytics/blob/main/Supply_Chain_Analytics.ipynb)
+
 
 ## Data Overview 
 The dataset provides three data tables including order_and_shipment, inventory and fulfillment. After examining the data fields, I noticed that the dataset generally represents the following key information
@@ -71,9 +71,7 @@ Warehouse Inventory: Information on inventory management for each product name i
 
 **3 Shipment Delay Analysis:**
 
-**4 Order Fulfillment Days:**
 
-Detailed analysis including feature metric, Key insights and suggestion can be found of medium Blog Post : [Here](https://medium.com/@poojapatel26/moving-from-complexity-to-clarity-in-supply-chain-08fe4f8eb2d2)
 
 ## Sugesstions 
 
